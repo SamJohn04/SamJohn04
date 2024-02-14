@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SamJohn04
-- 👀 I’m interested in bringing wonderful ideas to life.
-- 🌱 I’m currently learning React
+- 👀 I bring wonderful ideas to life.
 
 <!---
 SamJohn04/SamJohn04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
