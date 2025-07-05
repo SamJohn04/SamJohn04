@@ -1,6 +1,7 @@
 # About Me
 
-👋 Hi, I’m @SamJohn04  
+*Developer | Weeb | Chess Enthusiast*
+
 👀 I bring wonderful ideas to life
 
 ## 🌐 Socials
