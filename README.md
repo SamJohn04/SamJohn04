@@ -2,8 +2,6 @@
 
 *Developer | Weeb | Chess Enthusiast*
 
-👀 I bring wonderful ideas to life
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://instagram.com/samuel.john_codes)
