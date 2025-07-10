@@ -6,7 +6,9 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuel.john_codes)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg)](https://instagram.com/samuel.john_codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/samuel-john-329b08246)
+[![Discord](https://img.shields.io/badge/Discord-%2340459B.svg)](https://discord.gg/fJnU5D8f7T)
 
 <!---
 SamJohn04/SamJohn04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
