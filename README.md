@@ -2,7 +2,8 @@
 
 *Developer | Weeb | Chess Enthusiast*
 
-🌱 I’m currently learning Go
+🌱 I’m currently learning Go  
+💭 Ask me about Python, C, Java and the like  
 
 ## 🌐 Socials
 
