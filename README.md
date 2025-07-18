@@ -4,6 +4,7 @@
 
 🌱 I’m currently learning Go  
 💬 Ask me about Python, C, Java and the like  
+📬 Reach me anytime at samuel.john.codes@gmail.com  
 
 ## 🌐 Socials
 
