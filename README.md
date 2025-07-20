@@ -3,7 +3,7 @@
 *Developer | Writer | Chess Enthusiast*
 
 🌱 I’m currently learning Go  
-💬 Ask me about Python, C, Java and the like  
+💬 Ask me about Frontend, Python, C, and so on  
 📬 Reach me anytime at samuel.john.codes@gmail.com  
 
 ## 🌐 Socials
