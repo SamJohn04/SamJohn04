@@ -1,6 +1,6 @@
 # About Me
 
-*Developer | Weeb | Chess Enthusiast*
+*Developer | Writer | Chess Enthusiast*
 
 🌱 I’m currently learning Go  
 💬 Ask me about Python, C, Java and the like  
