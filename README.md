@@ -2,7 +2,7 @@
 
 *Developer | Writer | Chess Enthusiast*
 
-🌱 I’m currently learning Go  
+🌱 I’m currently learning Go - [See where I'm at right now!](https://github.com/SamJohn04/notes-backend)  
 💬 Ask me about Frontend, Python, C, and so on  
 📬 Reach me anytime at samuel.john.codes@gmail.com  
 
