@@ -2,7 +2,7 @@
 
 *Developer | Writer | Chess Enthusiast*
 
-🌱 I’m currently learning Go  
+🌱 I’m currently learning Go - [See where I'm at!](https://github.com/SamJohn04/go-archive)  
 💬 Ask me about Frontend, Python, C, and the like  
 📬 Reach me anytime at samuel.john.codes@gmail.com  
 
