@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Samuel John</h1>
+# Samuel John
 
 *Developer | Writer | Chess Enthusiast*
 
