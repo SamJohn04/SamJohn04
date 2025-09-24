@@ -1,8 +1,8 @@
-# About Me
+<h1 style="text-align: center">Samuel John</h1>
 
 *Developer | Writer | Chess Enthusiast*
 
-🌱 I’m currently learning Go - [See where I'm at!](https://github.com/SamJohn04/gonotes)  
+🌱 I’m currently learning Go - [See where I'm at!](https://github.com/SamJohn04/nate)  
 💬 Ask me about Frontend, Go, Python, C, and the like.  
 📬 Reach me anytime at samuel.john.codes@gmail.com  
 
