@@ -3,7 +3,7 @@
 *Developer | Writer | Chess Enthusiast*
 
 🌱 I’m currently learning Go - [See where I'm at!](https://github.com/SamJohn04/nate)  
-💬 Ask me about Frontend, Go, Python, C, and the like.  
+💬 Ask me about Frontend, Go, Python, and the like.  
 📬 Reach me anytime at samuel.john.codes@gmail.com  
 
 ## 🌐 Socials
